@@ -116,8 +116,8 @@ jQuery(function($) {
     },
 
     _moveLogin: function() {
-      var login = $('#member-login').clone(true);
-      $('.mobile-nav .wsite-menu-default > li:last-child').after(login);
+      var loginDetach = $('#member-login').detach();
+      $('.mobile-nav .wsite-menu-default > li:last-child').after(loginDetach);
     },
 
     _moveFlyout: function() {
@@ -153,7 +153,9 @@ jQuery(function($) {
         });
 
         // Move cart + login
-        $.fn.intervalLoop('.mobile-nav #member-login', base._moveLogin, 800, 5);
+        if ($(window).width() <= 992) {
+            $.fn.intervalLoop('.mobile-nav #member-login', base._moveLogin, 800, 5);
+        }
 
         // Move Flyout
         $.fn.intervalLoop('.birdseye-header #wsite-menus', base._moveFlyout, 300, 8);
