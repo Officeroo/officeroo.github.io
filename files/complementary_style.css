@@ -5,9 +5,9 @@
 .demo-request-button {
   border-radius: 52px;
   background-color: orange;
-  height: 80px;
+  /* height: 80px;
   line-height: 80px;
-  text-align: center;
+  text-align: center; */
 }
 
 /* .pricing-box {
