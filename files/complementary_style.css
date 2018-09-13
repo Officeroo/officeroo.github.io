@@ -3,7 +3,7 @@
 }
 
 .text-shadow {
-    text-shadow: 1px 1px 5px #239ed0;
+    text-shadow: 0.5px 0.5px 5px #239ed0;
 }
 
 .demo-request-button {
@@ -12,9 +12,10 @@
 }
 
 .pricing-box {
-  border-style: solid;
+  /* border-style: solid;
   border-width: 1px;
-  border-color: grey;
+  border-color: grey; */
   border-radius: 18px;
   margin: 10px;
+  background-color: #DEEFF2;
 }
