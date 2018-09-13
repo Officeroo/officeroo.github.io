@@ -2,6 +2,10 @@
   border-radius: 52px;
 }
 
+.text-shadow {
+    text-shadow: 1px 1px 5px #239ed0;
+}
+
 .demo-request-button {
   border-radius: 52px;
   background-color: orange;
