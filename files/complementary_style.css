@@ -4,7 +4,8 @@
 
 .text-shadow {
     /* text-shadow: 1px 1px 5px #239ed0; */
-    text-shadow: 1px 1px 5px #000000;
+    /* text-shadow: 1px 1px 5px #000000; */
+    text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
 }
 
 .demo-request-button {
