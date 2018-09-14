@@ -50,7 +50,7 @@
  .birdseye-header .logo a { margin-right: 30px; -webkit-transition: opacity 200ms ease; -moz-transition: opacity 200ms ease; -ms-transition: opacity 200ms ease; transition: opacity 200ms ease; }
  .birdseye-header .logo a:hover { opacity: .6; }
  .birdseye-header .logo #wsite-title { max-width: 400px; font-family: 'Montserrat', sans-serif; font-size: 30px; font-weight: 700; line-height: 1; text-transform: uppercase; letter-spacing: 0.03em; -webkit-transition: font-size 260ms ease; -moz-transition: font-size 260ms ease; -ms-transition: font-size 260ms ease; transition: font-size 260ms ease; }
- .birdseye-header .logo img { overflow: hidden; max-width: 200px; max-height: 40px; }
+ .birdseye-header .logo img { overflow: hidden; max-width: 200px; max-height: 100%; }
  .nav { display: table-cell; vertical-align: middle; }
  .nav ul { float: right; max-width: calc(100vw - 480px); overflow: hidden; }
  .nav li { display: inline-block; margin: 5px 5px 5px 0; }
@@ -209,7 +209,7 @@
  font[size="7"] { font-size: 250% !important; }
  .container, .wsite-footer { overflow: hidden; }
  .birdseye-header { top: 0; left: 0; padding: 5px 20px !important; min-height: 50px; }
- .birdseye-header .birdseye-header, .birdseye-header .logo, .birdseye-header .logo img { max-height: 40px; }
+ .birdseye-header .birdseye-header, .birdseye-header .logo, .birdseye-header .logo img { max-height: 46px; }
  .birdseye-header .logo { overflow: hidden; padding-right: 25px; }
  .birdseye-header .logo a { margin-left: 0; margin-right: 0; font-size: 1.1em; line-height: 1.4em; }
  .birdseye-header .logo #wsite-title { display: block; max-width: 100%; font-size: 1.1em !important; line-height: 1.4em !important; }
