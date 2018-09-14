@@ -21,6 +21,22 @@
   background-color: #DEEFF2;
 }
 
+.logo-white {
+  display: block !important;
+}
+
+.logo-black {
+  display: none !important;
+}
+
+.affix .logo-white {
+  display: none !important;
+}
+
+.affix .logo-black {
+  display: block !important;
+}
+
 /*
 COLOR PALETTE
 #DEEFF2 - light white blue
