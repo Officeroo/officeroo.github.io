@@ -1,3 +1,15 @@
+/*
+
+  COLOR PALETTE
+
+  #DEEFF2 - light white blue
+  #52c0ed - main blue
+  #005E9F - dark blue
+  #2a2a2a - black
+  #FFB03E - orange
+
+*/
+
 .officeroo-button {
   border-radius: 52px;
 }
@@ -8,12 +20,7 @@
 
 .demo-request-button {
   border-radius: 52px;
-  /* background-color: orange; */
   background-color: #FFB03E;
-  /* background-color: #FFCC55; */
-  /* border-color: red; */
-  text-shadow: 0.5px 0.5px 5px black;
-  /* color: #2a2a2a; */
 }
 
 .pricing-box {
@@ -26,27 +33,14 @@
   background-color: #DEEFF2;
 }
 
-.logo-white {
-  display: block !important;
-}
+/* LOGO CHANGE COLOR ON SCROLL */
+.logo-white { display: block !important; }
+.logo-black { display: none !important; }
+.affix .logo-white { display: none !important; }
+.affix .logo-black { display: block !important; }
 
-.logo-black {
-  display: none !important;
-}
-
-.affix .logo-white {
-  display: none !important;
-}
-
-.affix .logo-black {
-  display: block !important;
-}
-
-/*
-COLOR PALETTE
-#DEEFF2 - light white blue
-#52c0ed - main blue
-#005E9F - dark blue
-#2a2a2a - black
-# - orange
-*/
+/* REQUEST DEMO NAVBAR BUTTON COLOR CHANGE ON SCROLL */
+.navbar-button-black { display: none !important; }
+.navbar-button-white { display: block !important; }
+.affix .navbar-button-black { display: block !important; }
+.affix .navbar-button-white { display: none !important; }
