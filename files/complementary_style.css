@@ -3,12 +3,17 @@
 }
 
 .text-shadow {
-    text-shadow: 0.5px 0.5px 5px #239ed0;
+  text-shadow: 0.5px 0.5px 5px #239ed0;
 }
 
 .demo-request-button {
   border-radius: 52px;
-  background-color: orange;
+  /* background-color: orange; */
+  background-color: #FFB03E;
+  /* background-color: #FFCC55; */
+  /* border-color: red; */
+  text-shadow: 0.5px 0.5px 5px black;
+  /* color: #2a2a2a; */
 }
 
 .pricing-box {
