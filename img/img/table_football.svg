@@ -3,15 +3,15 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 889.7 802.8" style="enable-background:new 0 0 889.7 802.8;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#5E5E5E;stroke:#FFFFFF;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st1{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st0{fill:#FFF355;stroke:#1300FF;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FFF355;stroke:#1300FF;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st2{fill:none;stroke:#1300FF;stroke-width:34;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st3{fill:#52C0ED;stroke:#1300FF;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#6AFF3F;stroke:#1300FF;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st4{fill:#1300FF;stroke:#1300FF;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st5{fill:none;stroke:#1300AA;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
-	.st6{fill:#5E5E5E;stroke:#FFFFFF;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st7{fill:#5E5E5E;stroke:#FFFFFF;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
-	.st8{fill:none;stroke:#FFFFFF;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#6AFF3F;stroke:#1300FF;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st6{fill:#6AFF3F;stroke:#1300FF;stroke-width:34;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#FFF355;stroke:#1300FF;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#1300FF;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st9{fill:#FFCA7D;stroke:#B54100;stroke-width:6;stroke-miterlimit:10;}
 	.st10{fill:none;stroke:#1300AA;stroke-width:6;stroke-linecap:round;stroke-miterlimit:10;}
 	.st11{fill:none;stroke:#FF1543;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
@@ -26,21 +26,21 @@
 	/>
 <rect x="399.5" y="674.4" class="st4" width="99.9" height="66.7"/>
 <line class="st5" x1="436.5" y1="338.9" x2="461.3" y2="352.3"/>
-<line class="st2" x1="284.4" y1="503.3" x2="419.2" y2="485.3"/>
-<ellipse class="st6" cx="199" cy="150.4" rx="33.3" ry="40.3"/>
-<path class="st6" d="M227.5,444.1h-48.2c-7.2,0-16.1-55.8-22.1-58.9c-13.5-7.2-25.1-24.8-25.1-41.2v-88.4
+<line class="st6" x1="284.4" y1="503.3" x2="419.2" y2="485.3"/>
+<ellipse class="st1" cx="199" cy="150.4" rx="33.3" ry="40.3"/>
+<path class="st1" d="M227.5,444.1h-48.2c-7.2,0-16.1-55.8-22.1-58.9c-13.5-7.2-25.1-24.8-25.1-41.2v-88.4
 	c0-23.6,19.1-42.7,42.7-42.7h48.1c23.6,0,42.7,19.1,42.7,42.7V344c0,16.9-5.9,33.5-20.2,40.4C239.7,387.2,234.1,444.1,227.5,444.1z"
 	/>
 <rect x="153.2" y="466.3" class="st1" width="99.9" height="66.7"/>
 <line class="st7" x1="182.3" y1="149.5" x2="206.8" y2="135.5"/>
 <line class="st8" x1="38.1" y1="295.2" x2="172.9" y2="277.3"/>
-<ellipse class="st6" cx="628.3" cy="91.9" rx="33.3" ry="40.3"/>
-<path class="st6" d="M656.8,385.6h-48.2c-7.2,0-16.1-55.8-22.1-58.9c-13.5-7.2-25.1-24.8-25.1-41.2v-88.4
+<ellipse class="st1" cx="628.3" cy="91.9" rx="33.3" ry="40.3"/>
+<path class="st1" d="M656.8,385.6h-48.2c-7.2,0-16.1-55.8-22.1-58.9c-13.5-7.2-25.1-24.8-25.1-41.2v-88.4
 	c0-23.6,19.1-42.7,42.7-42.7h48.1c23.6,0,42.7,19.1,42.7,42.7v88.4c0,16.9-5.9,33.5-20.2,40.4C669,328.7,663.4,385.6,656.8,385.6z"
 	/>
 <line class="st7" x1="611.6" y1="91" x2="636.1" y2="77"/>
 <line class="st0" x1="467.4" y1="236.7" x2="602.2" y2="218.8"/>
-<ellipse transform="matrix(0.581 -0.8139 0.8139 0.581 -177.3671 868.4651)" class="st9" cx="754.8" cy="606.5" rx="46.9" ry="47.4"/>
+<ellipse transform="matrix(0.581 -0.8139 0.8139 0.581 -177.379 868.4618)" class="st9" cx="754.8" cy="606.5" rx="46.9" ry="47.4"/>
 <path class="st10" d="M660.4,611.5c0,0-14.2,56.4,40.2,73.1"/>
 <path class="st11" d="M622.2,627.8c0,0-14.2,56.4,40.2,73.1"/>
 </svg>
