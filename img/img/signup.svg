@@ -7,9 +7,9 @@
 	.st1{display:inline;fill:#2EC4FF;}
 	.st2{fill:#FFA615;stroke:#7F0068;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st3{fill:#FF002B;stroke:#7F0068;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st4{fill:none;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#52C0ED;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st5{fill:#DEEFF2;stroke:#005E9F;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st6{fill:none;stroke:#FFFFFF;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#52C0ED;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st7{fill:none;stroke:#2A2A2A;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st8{fill:#DEEFF2;stroke:#2A2A2A;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st9{fill:none;stroke:#2A2A2A;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
@@ -132,7 +132,7 @@
 	<path class="st7" d="M213.2,495.5c0-18.4-12.5-29.3-22.1-29c-24.5,0.8-28,32.3-28.3,47.7s6.3,56.4,6.3,56.4
 		C169.8,543.6,213.2,513.9,213.2,495.5z"/>
 	
-		<ellipse transform="matrix(0.9231 -0.3846 0.3846 0.9231 -224.6791 145.8268)" class="st8" cx="252.2" cy="634.6" rx="11.4" ry="11.4"/>
+		<ellipse transform="matrix(0.8807 -0.4737 0.4737 0.8807 -270.5246 195.1731)" class="st8" cx="252.2" cy="634.6" rx="11.4" ry="11.4"/>
 	<path class="st7" d="M291.9,747.5c0,0,28.2-11.9,38.9,3.1s-26,43.4-26,43.4"/>
 	<path class="st7" d="M148.2,747.8c0,0-29-9.5-38.5,6.3c-9.4,15.8,29.5,41.1,29.5,41.1"/>
 	<path class="st9" d="M294.9,675.8c-1.9,13.3,13.4,17.9,13.4,17.9"/>
@@ -150,6 +150,6 @@
 </g>
 <path class="st11" d="M1188.9,522.5c0,0,15.3-4.6,13.4-17.9"/>
 <ellipse class="st12" cx="257.8" cy="633.9" rx="5.5" ry="5.7"/>
-<ellipse transform="matrix(1.300041e-02 -0.9999 0.9999 1.300041e-02 96.5413 1300.5291)" class="st12" cx="707" cy="601.4" rx="5.7" ry="5.5"/>
+<ellipse transform="matrix(1.300061e-02 -0.9999 0.9999 1.300061e-02 96.5127 1300.6121)" class="st12" cx="707.1" cy="601.4" rx="5.7" ry="5.5"/>
 <ellipse class="st12" cx="1237.1" cy="464.6" rx="5.5" ry="5.7"/>
 </svg>
