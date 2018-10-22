@@ -44,3 +44,11 @@
 .navbar-button-white { display: block !important; }
 .affix .navbar-button-black { display: block !important; }
 .affix .navbar-button-white { display: none !important; }
+
+/* Layout tweeks for mobile view */
+@media screen and (max-width: 480px) {
+  .wsite-reversed {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
